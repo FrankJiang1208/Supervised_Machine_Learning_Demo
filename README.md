@@ -9,3 +9,6 @@ LendingClub is a peer-to-peer lending services company that allows individual in
 Implement and compare the Logistic Regression model and Random Forest Classifier.
 
 
+## Running the program
+
+Simply run the Credit Risk Evaluation Jupyter Notebook file
